@@ -1,0 +1,39 @@
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css'>
+<i class="fi fi-brands-facebook"></i> facebbok
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css'>
+<i class="fi fi-brands-twitter"></i> twitter
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css'>
+<i class="fi fi-brands-linkedin"></i> linkedin
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css'>
+<i class="fi fi-brands-pinterest"></i> pinterest
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+<i class="fi fi-rr-shopping-cart"></i> shopping-cart
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+<i class="fi fi-rr-search"></i> Search-bar
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+<i class="fi fi-rr-star"></i> star
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-straight/css/uicons-regular-straight.css'>
+<i class="fi fi-rs-medal"></i> Medals
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-bold-straight/css/uicons-bold-straight.css'>
+<i class="fi fi-bs-bullseye-arrow"></i> arrowboard
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+<i class="fi fi-rr-phone-call"></i> phone call
+
+<i class="fi fi-rs-land-layer-location" style="color: #030e4c97"></i>
+<p style="font-size: large; font-weight: lighter;">2A0, Queenstown St, USA.</p>
+<i class="fi fi-rr-envelope" style="color: #030e4c97"></i>
+ <a style="text-decoration: none; color: black; font-size: large; font-weight: lighter;" href="mailto:supporthere@mail.com">supporthere@mail.com</a>
+
+<button class="btn btn-outline-primary" type="submit">GET A QUOTE</button>
+  &emsp;
+
+
+ <nav class="navbar navbar-expand-lg bg-body-white mt-4 ">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" style="margin-left: 4%;" href="#">
+        <img src="img/logo (1).png" width="100%" height="60px" alt="">
+    </a>
+
